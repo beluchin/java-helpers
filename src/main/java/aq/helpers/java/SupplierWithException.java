@@ -1,4 +1,4 @@
-package helpers.java;
+package aq.helpers.java;
 
 @FunctionalInterface
 public interface SupplierWithException<T, E extends Throwable> {

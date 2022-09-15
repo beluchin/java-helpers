@@ -1,4 +1,4 @@
-package helpers.java.either;
+package aq.helpers.java.either;
 
 import lombok.Value;
 

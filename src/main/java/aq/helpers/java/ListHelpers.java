@@ -1,4 +1,4 @@
-package helpers.java;
+package aq.helpers.java;
 
 import com.google.common.collect.ImmutableList;
 import lombok.experimental.UtilityClass;

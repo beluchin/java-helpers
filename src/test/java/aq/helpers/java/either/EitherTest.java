@@ -1,13 +1,13 @@
-package helpers.java.either;
+package aq.helpers.java.either;
 
-import helpers.java.MutableReference;
+import aq.helpers.java.MutableReference;
 import lombok.val;
 import org.junit.jupiter.api.Test;
 
 import java.util.function.Function;
 
-import static helpers.java.ConsumerHelpers.throwingConsumer;
-import static helpers.java.FunctionHelpers.throwingFunction;
+import static aq.helpers.java.ConsumerHelpers.throwingConsumer;
+import static aq.helpers.java.FunctionHelpers.throwingFunction;
 import static org.assertj.core.api.Assertions.assertThat;
 
 final class EitherTest {

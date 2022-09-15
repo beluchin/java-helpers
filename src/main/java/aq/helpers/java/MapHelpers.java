@@ -1,4 +1,4 @@
-package helpers.java;
+package aq.helpers.java;
 
 import com.google.common.collect.ImmutableMap;
 import lombok.experimental.UtilityClass;

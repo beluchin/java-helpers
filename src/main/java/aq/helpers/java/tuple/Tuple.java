@@ -1,4 +1,4 @@
-package helpers.java.tuple;
+package aq.helpers.java.tuple;
 
 import lombok.Value;
 
